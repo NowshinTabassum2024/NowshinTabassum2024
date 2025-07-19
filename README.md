@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Nowshin Tabassum]</h1>
+<h1 align="center">Hi there! 👋 I'm Nowshin Tabassum</h1>
 
 <p align="center">
   💻 <strong>Software Quality Assurance (SQA) Engineer</strong> <br>

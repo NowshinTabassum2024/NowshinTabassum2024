@@ -27,9 +27,9 @@
 
 ---
 
-### 📈 GitHub Stats
+//### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+//![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
 
